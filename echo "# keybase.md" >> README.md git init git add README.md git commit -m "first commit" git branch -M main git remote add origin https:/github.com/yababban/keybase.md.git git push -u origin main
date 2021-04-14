@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am yababban on github.
+  * I am yababban (https://keybase.io/yababban) on keybase.
+  * I have a public key ASBYsmaYedYtnyYkqzJZiSy5MXwwwpJsEpeW1zb7XhGMmQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012058b2669879d62d9f2624ab3259892cb9317c30c2926c129796d736fb5e118c990a",
+      "host": "keybase.io",
+      "kid": "012058b2669879d62d9f2624ab3259892cb9317c30c2926c129796d736fb5e118c990a",
+      "uid": "abc22d8776ee4a7190810dfdbfacae19",
+      "username": "yababban"
+    },
+    "merkle_root": {
+      "ctime": 1618395777,
+      "hash": "3895469e1057f66743d10c30884a5b7dd40c99135a172a4049847c14345383c09dea234518c3b58838f7bc8b8bbfe90572b0a97a377964828b6fa981271b9eae",
+      "hash_meta": "aeb26112434b2fbda85fabca9514d74faa5ff78d52eec5cc3aff9906710cdc58",
+      "seqno": 19628610
+    },
+    "service": {
+      "entropy": "FxzzlkWVaMnKfFN050eq4KQk",
+      "name": "github",
+      "username": "yababban"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.0"
+  },
+  "ctime": 1618392226,
+  "expire_in": 504576000,
+  "prev": "d100873992ad664bf2be0eaf801806872ce8c33e2c7c84ee59f4a5c47139f9b3",
+  "seqno": 6,
+  "tag": "signature"
+}
+```
+
+with the key [ASBYsmaYedYtnyYkqzJZiSy5MXwwwpJsEpeW1zb7XhGMmQo](https://keybase.io/yababban), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgWLJmmHnWLZ8mJKsyWYksuTF8MMKSbBKXltc2+14RjJkKp3BheWxvYWTESpcCBsQg0QCHOZKtZkvyvg6vgBgGhyzowz4sfITuWfSlxHE5+bPEIIiahR+JXcGitWcANVgVFwaYtntZyHnIKlF3D1ljjo0qAgHCo3NpZ8RAb531VyvMAc5lCrHMXgGzIOKpj+KcGGDWNdkN3tiQe6P+mTWMVcga+ibg+wtFm47Eze3dVEf/RK9hmUjRg7KDBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMJz0nXp6zFo7dja4i+dwMT3FBj091RwA7oExHx3sBabo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/yababban
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id yababban
+```
